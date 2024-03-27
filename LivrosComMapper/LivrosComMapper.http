@@ -1,0 +1,6 @@
+@LivrosComMapper_HostAddress = http://localhost:5067
+
+GET {{LivrosComMapper_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
